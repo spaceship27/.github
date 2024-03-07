@@ -1,6 +1,8 @@
 # Godot Engine Addons
 
-`Scripts`
+`Addons`
+
+#### Scripts
 
 - File Manager
 - Xsolla SDK
