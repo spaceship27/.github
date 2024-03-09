@@ -6,3 +6,4 @@
 
 - File Manager
 - Xsolla SDK
+- Crowdin API
