@@ -4,6 +4,4 @@
 
 #### Scripts
 
-- Empty [F]
 - Xsolla SDK
-- Empty [C]
