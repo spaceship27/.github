@@ -4,6 +4,6 @@
 
 #### Scripts
 
-- File Manager
+- Empty [F]
 - Xsolla SDK
-- Crowdin API
+- Empty [C]
